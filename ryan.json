@@ -1,20 +1,20 @@
 {
     "basics":
     {
-        "name": “Ricardo Ryan Anggara”,
-        "label": “iOS Application Developer",
+        "name": "Akarsh SEGGEMU",
+        "label": "Mobile App-Entwickler",
         "picture": "https://raw.githubusercontent.com/akarsh/akarsh.github.io/master/images/standard_profile.jpg",
-        "email": "arcrdryan@gmail.com",
-        "phone": “(+62) 87851419198”,
+        "email": "akarshseggemu@gmail.com",
+        "phone": "+4915752417519",
         "website": "https://sakarsh.com",
-        "summary": "Ever since I built my first Windows Phone app during final year of my Bachelor studies (i.e. Computer Science & Engineering), I have a passion for developing apps that stay in align with mobile usability guidelines. On 7 December 2017, I completed my master's degree in Computer Science from Technische Universitaet Berlin, Berlin. Self-taught Application developer (i.e. Windows Phone, Windows 8, Android and iOS), specializing in native apps. I have created apps for Windows Phone, Windows 8, Android and iOS that follow human interface design guidelines and fit into Windows, Android and iOS ecosystem with distinct branding.",
+        "summary": "Seit ich meine erste Windows Phone App im letzten Jahr meines Bachelor-Studiums (d. H. Informatik & Ingenieurwissenschaften) aufgebaut habe, habe ich eine Leidenschaft für die Entwicklung von Apps, die mit den mobilen Usability-Richtlinien übereinstimmen. Im Dezember 2017 habe ich mein Master-Studium in (M.Sc.) Informatik an der Technischen Universität Berlin abgeschlossen. Autodidaktischer App-Entwickler (d.h. Windows Phone, Windows 8, Android, iOS), spezialisiert auf native Apps. Ich habe Apps für Windows Phone, Windows 8, Android, iOS entwickelt, die den Designrichtlinien für Benutzeroberflächen entsprechen und in das Windows-, Android- und iOS-Ökosystem mit eigenem Branding passen.",
         "location":
         {
             "address": "Löwenberger strasse 2, 6. O.G., Apartment - 13",
             "postalCode": "10315",
             "city": "Berlin",
             "countryCode": "DE",
-            "region": "Germany"
+            "region": "Deutschland"
         },
         "profiles": [
         {
@@ -49,8 +49,8 @@
         }],
         "info":
         {
-            "nationality": "Indian",
-            "workPermit": "Yes",
+            "nationality": "Indisch",
+            "workPermit": "Ja",
             "dateOfBirth": "1991-08-23",
             "placeOfBirth": "Perka Kondaram"
         }
@@ -286,7 +286,7 @@
     }],
     "skills": [
     {
-        "name": "Programming and Scripting languages",
+        "name": "Programmier- und Skriptsprachen",
         "level": "",
         "keywords": [
             "HTML",
@@ -298,7 +298,7 @@
         ]
     },
     {
-        "name": "Data",
+        "name": "Datenbank",
         "level": "",
         "keywords": [
             "SQL (MySQL, PostgreSQL)",
@@ -306,7 +306,7 @@
         ]
     },
     {
-        "name": "Project management methodology",
+        "name": "Projektmanagement-Methodik",
         "level": "",
         "keywords": [
             "Scrum",
@@ -314,7 +314,7 @@
         ]
     },
     {
-        "name": "Version Control System",
+        "name": "Versionskontrollsystem",
         "level": "",
         "keywords": [
             "Git",
@@ -341,7 +341,7 @@
         ]
     },
     {
-        "name": "Operating System",
+        "name": "Betriebssystem",
         "level": "",
         "keywords": [
             "macOS",
@@ -350,7 +350,7 @@
         ]
     },
     {
-        "name": "Software / Applications",
+        "name": "Software / Anwendungen",
         "level": "",
         "keywords": [
             "JIRA",
@@ -367,61 +367,61 @@
     }],
     "languages": [
     {
-        "language": "English",
-        "fluency": "Native proficiency"
+        "language": "Englisch",
+        "fluency": "Muttersprache"
     },
     {
         "language": "German",
-        "fluency": "Professional working proficiency"
+        "fluency": "Gute Kenntnisse"
     },
     {
         "language": "Telugu",
-        "fluency": "Native proficiency"
+        "fluency": "Muttersprache"
     }],
     "interests": [
-    {
-        "name": "Dance",
-        "keywords": [
-          "Swing",
-          "Lindy Hop",
-          "Lindy Charleston"
-        ]
-    },
-    {
-        "name": "Long Boarding",
-        "keywords": []
-    },
-    {
-        "name": "Football",
-        "keywords": []
-    },
-    {
-        "name": "Rowing",
-        "keywords": []
-    },
-    {
-        "name": "Jogging",
-        "keywords": []
-    }],
-    "references": [
-    {
-        "name": "Prathap Reddy",
-        "reference": "Akarsh is very good team member and he always try to adopt to new technologies especially i like his dedication in work"
-    },
-    {
-        "name": "Ravindra Penumarthi",
-        "reference": "Akarsh has excellent developer skills and in depth knowledge on .NET Framework, Windows Phone and Windows Azure. I was in awe many times looking at the way he used API's in Windows Phone applications(i was a noob back then). He made app development look easy. I got to know about azure for the first time from Akarsh when we were working together at Edukinect. I still remember that day(2 years ago) when he explained everything in the air about Azure and SQL Azure connectivity and today i'm an Azure developer and finally i figured out what he was talking on that day."
-    },
-    {
-        "name": "Bruno Granja Camarero",
-        "reference": "Team-oriented, trustworthy and extremely focused on getting things done and achieving goals in order to deliver even more than what is expected. He is very assertive and proactive when dealing with every situation. And something I really appreciate: he is always keeping a positive vibe making work a lot easier and lighter. It was a pleasure to work with him."
-    },
-    {
-        "name": "Alexandra Toader",
-        "reference": "Was a pleasure working with you. Result oriented, fast learner and a great team player. You would definitely have a valuable impact on any of the companies you would join in the future."
-    },
-    {
-        "name": "Victor Castano",
-        "reference": "In a nutshell, Akarsh is one of the success stories at Fyber. He started as a Student Solution Engineer and quickly become an essential part of the team. Akarsh has a solid academic background, is very technical and customer oriented. With a wide mobile development background, Akarsh would be an asset to any organisation looking for a loyal and motivated engineer."
-    }]
+        {
+            "name": "Dance",
+            "keywords": [
+              "Swing",
+              "Lindy Hop",
+              "Lindy Charleston"
+            ]
+        },
+        {
+            "name": "Long Boarding",
+            "keywords": []
+        },
+        {
+            "name": "Football",
+            "keywords": []
+        },
+        {
+            "name": "Rowing",
+            "keywords": []
+        },
+        {
+            "name": "Jogging",
+            "keywords": []
+        }],
+        "references": [
+        {
+            "name": "Prathap Reddy",
+            "reference": "Akarsh is very good team member and he always try to adopt to new technologies especially i like his dedication in work"
+        },
+        {
+            "name": "Ravindra Penumarthi",
+            "reference": "Akarsh has excellent developer skills and in depth knowledge on .NET Framework, Windows Phone and Windows Azure. I was in awe many times looking at the way he used API's in Windows Phone applications(i was a noob back then). He made app development look easy. I got to know about azure for the first time from Akarsh when we were working together at Edukinect. I still remember that day(2 years ago) when he explained everything in the air about Azure and SQL Azure connectivity and today i'm an Azure developer and finally i figured out what he was talking on that day."
+        },
+        {
+            "name": "Bruno Granja Camarero",
+            "reference": "Team-oriented, trustworthy and extremely focused on getting things done and achieving goals in order to deliver even more than what is expected. He is very assertive and proactive when dealing with every situation. And something I really appreciate: he is always keeping a positive vibe making work a lot easier and lighter. It was a pleasure to work with him."
+        },
+        {
+            "name": "Alexandra Toader",
+            "reference": "Was a pleasure working with you. Result oriented, fast learner and a great team player. You would definitely have a valuable impact on any of the companies you would join in the future."
+        },
+        {
+            "name": "Victor Castano",
+            "reference": "In a nutshell, Akarsh is one of the success stories at Fyber. He started as a Student Solution Engineer and quickly become an essential part of the team. Akarsh has a solid academic background, is very technical and customer oriented. With a wide mobile development background, Akarsh would be an asset to any organisation looking for a loyal and motivated engineer."
+        }]
 }
